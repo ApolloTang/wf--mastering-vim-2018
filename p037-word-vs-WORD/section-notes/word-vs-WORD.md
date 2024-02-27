@@ -10,6 +10,3 @@
 
 ![big-word](./assets/big-word.png)
 
-###  P041 cw behaves like ce
-
-<img src="./assets/cw behaves like ce.png" width="300">
