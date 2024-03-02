@@ -1,0 +1,30 @@
+0000000    #   !   /   u   s   r   /   b   i   n   /   p   y   t   h   o
+0000020    n   3  \n  \n   "   "   "   O   u   r       o   w   n       l
+0000040    i   t   t   l   e       a   n   i   m   a   l       f   a   r
+0000060    m   .   "   "   "  \n  \n   i   m   p   o   r   t       s   y
+0000100    s  \n  \n   d   e   f       a   d   d   _   a   n   i   m   a
+0000120    l   (   f   a   r   m   ,       a   n   i   m   a   l   )   :
+0000140   \n                   f   a   r   m   .   a   d   d   (   a   n
+0000160    i   m   a   l   )  \n                   r   e   t   u   r   n
+0000200        f   a   r   m  \n  \n   d   e   f       m   a   i   n   (
+0000220    a   n   i   m   a   l   s   )   :  \n                   f   a
+0000240    r   m       =       s   e   t   (   )  \n                   f
+0000260    o   r       a   n   i   m   a   l       i   n       a   n   i
+0000300    m   a   l   s   :  \n                                   f   a
+0000320    r   m       =       a   d   d   _   a   n   i   m   a   l   (
+0000340    f   a   r   m   ,       a   n   i   m   a   l   )  \n        
+0000360            p   r   i   n   t   (   "   W   e   '   v   e       g
+0000400    o   t       s   o   m   e       a   n   i   m   a   l   s    
+0000420    o   n       t   h   e       f   a   r   m   :   "   ,       '
+0000440    ,       '   .   j   o   i   n   (   f   a   r   m   )       +
+0000460        '   .   '   )  \n  \n   i   f       _   _   n   a   m   e
+0000500    _   _       =   =       '   _   _   m   a   i   n   _   _   '
+0000520    :  \n                   i   f       l   e   n   (   s   y   s
+0000540    .   a   r   g   v   )       =   =       1   :  \n            
+0000560                        p   r   i   n   t   (   '   P   a   s   s
+0000600        a   t       l   e   a   s   t       o   n   e       a   n
+0000620    i   m   a   l       t   y   p   e   !   '   )  \n            
+0000640                        s   y   s   .   e   x   i   t   (   1   )
+0000660   \n                   m   a   i   n   (   s   y   s   .   a   r
+0000700    g   v   [   1   :   ]   )  \n                                
+0000710
