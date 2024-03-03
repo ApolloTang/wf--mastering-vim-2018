@@ -1,6 +1,6 @@
 
 
-### Inconsistent behaviour of change:
+### Inconsistent behavior of change compound command:
 
 
 Change-to-end-of-word, `ce`, will remove the character under the cursor:
